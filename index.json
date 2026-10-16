@@ -1,0 +1,11 @@
+{
+  "org": "scikit-opt",
+  "repo": "scikit-opt",
+  "versions": [
+    {
+      "commit": "dbbb41ad5ce671f90dc4d6b97c7ecdffa187715f",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:31:50.013302+00:00"
+    }
+  ]
+}
